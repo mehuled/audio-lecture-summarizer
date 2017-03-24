@@ -1,0 +1,80 @@
+in this lesson and indices offices limited
+introduce you to the concept off the power structures because such as the most fundamental
+reading got concept in computer science and whatnot edge of the dust that just is almost to a design and develop
+asian software systems
+so let's get started maybe they did all the time and how we strolled organize and
+nobody there to be that matters
+well let's pick up some examples from my day to day life
+men are organizing didn't have the biggest such an absence the editing but the sludge lord quickly and if the shitty in a language dictionary
+because the
+what's an addiction any odd
+saw the
+what if the wars in the ditch that he would not start
+it would be impractical and impossible
+as such the one among the himself once
+so a bitch jenny is organized
+as a slot that is awful it's a it's become another example
+if we have something like a city map the gay guy like acquisition of the landmark and your network connections on the state that is
+nice to have in the form of gym it's nice to meet
+show of the map it at the farm off the stomach presented to banish the plane
+so map data needs to be structured like this so that the us gays and addictions and then effectively and has such won a landmark and and get dropped from one place to another
+and that big one more example
+or something like a big gash in and cash out statement off of business would feel so close
+cash flow in the cards it makes most sense to live in a sandstorm the big bang in the form affect their lives team
+this may be easy to aggregate data and extract information if nobody dies of nice in these columns in the stables
+so different kind of sketches and needed
+what a nice different kind of get a dell computers what it was kind of data computers will quit next
+images the deal is
+additionally they got just they should get out and pretty much any kind of a bad idea how this planet
+how they strolled organize and go
+the diner come in computers that is because of it as the u of t v not state that even with the competition of our of machines if we do not use i'd kind of structures that kind of logical structures
+and our software systems that are being efficient
+well for my definition off in a constructive would be that
+i get that stretches of me
+to store and organized a doubt
+in the computer so that
+and the date that can be used efficiently
+when we studied data structures ask please tools to a modernized it out the study them in two ways so i'd say that we talk or data structures as one would talk about them as mathematical and logical markets when we talk about them as much to my bigger than logic and marcos we just look at an abstract view of them
+we just took it from a height of the
+what what features the market operations to define that particular data structures example off abstract you from the annoyed get me something like the abstract you all for the weinstein the vision can be back
+does add that the device that can be turned on and off
+can receive signals for satellite programs and played that one you'll meet you
+off the program and as long as i have
+the device like this i do not bother cause of the sudden good to create this device on
+to company makes this to ice
+so love this is an abstract of you
+so let me out so the best of just i'm paula has met him and ecological martin's it is to find an abstract new one in other words
+have a downvote is redefining mass abstract the deck types
+an example of that started at night can be
+i wondered if i enough some think what the list
+that should be a good tool
+stolen above the demands of that but the lady that i and we should be able to feed the man's by good position in the list
+and they should be also a little more to fly in and get a good liquidation and it is
+others say it's still a minimum of immense of any given time
+soviet justify no more than thou began in demand is
+but in a programming language in a number of ways
+so this is so definition of
+an abstract didn't like the us look on op's died at the gate and as the bt and if you see off on a high level language is already have a concrete implementation of such an atp
+in the fall moss bodies so what is give us on this functionality it's so why is that it it actually jump on good implementation so the second day off talking about because that just is
+in the one that implementation
+so i'm giving patients would be some concrete pipes and not an abstract do that
+the beginning the manga scene he key in my stupid reason the same language for example in c or c plus plus again and i'm in business to a d d
+as i did a structure named big yes
+and if i'm not hard awarded to the dock and avoid the monarch who beat up in the marketing missed a lot in the coming lessons
+okay so let's not give ins charity that i probably because this is one down there
+the incumbent quite often
+at stranded at ike's odd indeed he's dead and definitions off beat down and operation
+but do not have
+im giving patients who did not have any implementation details
+we really got elbowed a lot of data structures in this course we would be talking about them as abstracted a titan also been looking at how to implement them some of the data structures that the talk about thought bodies that india is stack
+q
+for the trough and this was on
+there are many more to study
+so when the study visa despotism the study then
+but the good of you
+the study war operations on any given to us with these data structures
+the study the cost of the locations
+mostly in terms of dying
+and indefinitely minister the the implementation in a programming language
+so it would be setting on these dates ostriches in the coming days since
+and this is all for this internet free lesson pencil watching
